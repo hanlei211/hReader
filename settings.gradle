@@ -1,0 +1,6 @@
+rootProject.name='hReader'
+include ':app'
+include ':module_main'
+include ':lib_common'
+include ':lib_api',':lib_irecyclerview'
+include ':module_read'
